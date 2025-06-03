@@ -1,7 +1,7 @@
-# About
+### About
 Forecasting retail sales using time series models like ARIMA, SARIMA, Prophet, RF, and XGBoost.
 
-## 🛍️ Retail Sales Forecasting
+# 🛍️ Retail Sales Forecasting
 
 > A complete, deployment-ready time series forecasting solution using statistical and machine learning models, optimized for retail demand prediction.
 
