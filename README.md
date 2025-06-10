@@ -132,14 +132,3 @@ It reflects skills that are directly aligned with roles in:
   Project documentation (you're reading it).
 
 
----
-
-## 📌 Future Improvements
-
-- Incorporate price elasticity and promotional impact
-- Apply deep learning models (e.g., LSTM/GRU)
-- Build interactive dashboard (Streamlit/Plotly Dash)
-
----
-
-
