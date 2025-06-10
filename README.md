@@ -111,7 +111,7 @@ It reflects skills that are directly aligned with roles in:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
 - `data/`  
   Contains input data files (excluded from Git for size/privacy).
