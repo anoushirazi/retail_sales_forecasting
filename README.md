@@ -129,6 +129,6 @@ It reflects skills that are directly aligned with roles in:
   List of required Python libraries for environment setup.
 
 - `README.md`  
-  Project documentation (you're reading it).
+  Project documentation (you're reading it)..
 
 
