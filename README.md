@@ -1,6 +1,7 @@
 # Retail Sales Forecasting
-## Overview
+![Project Preview Image](images/forecast_chart.png)
 
+## Overview
 > A complete, deployment-ready time series forecasting solution using statistical and machine learning models, optimized for retail demand prediction.
 
 ---
