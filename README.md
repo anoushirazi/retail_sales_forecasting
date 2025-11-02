@@ -1,4 +1,5 @@
-# 🛍️ Retail Sales Forecasting
+# Retail Sales Forecasting
+## Overview
 
 > A complete, deployment-ready time series forecasting solution using statistical and machine learning models, optimized for retail demand prediction.
 
